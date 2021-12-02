@@ -1,4 +1,6 @@
 *.out
 *.txt
 consul/data/*
+!consul/data/.keep
 vault/data/*
+!vault/data/.keep
